@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h2>This is a git lesson</h2>
       </header>
     </div>
   );
