@@ -13,10 +13,9 @@ function App() {
         </p>
         <h2>This is a git lesson</h2>
       </header>
-
       <div class="footer">
-        App footer
-      </div>
+  App footer
+</div>
     </div>
   );
 }
